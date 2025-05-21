@@ -1,5 +1,8 @@
 # Bajaj Finserv Hiring Challenge
 
+## Download JAR file
+
+[Download JAR file](https://github.com/chhavikant-01/bajaj-finserv/blob/main/target/hiring-challenge-0.0.1-SNAPSHOT.jar)
 
 This Spring Boot application solves the SQL challenge by:
 1. Sending a POST request to generate a webhook URL and access token
